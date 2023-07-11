@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683778070 source:c:\devc++\fayylar bilan ishlash\misoloui\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
